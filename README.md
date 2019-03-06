@@ -1,2 +1,4 @@
 # hello-world
-just getting started
+Just getting started.
+
+Be like water, my friend. 
